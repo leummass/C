@@ -1,0 +1,17 @@
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\bin\Debug\Pedidos.exe.config
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\bin\Debug\Pedidos.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.AssemblyReference.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.AnadePedidos.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.MenuPrincipal.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.Properties.Resources.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.GenerateResource.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.pdb
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.AnadeRepartidor.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.AsignarPAR.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.ConsultaPedidos.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.ConsultarRepartidores.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.PedidoEntregado.resources
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Pedidos\Pedidos\obj\Debug\Pedidos.ConsultaIndRepartidores.resources

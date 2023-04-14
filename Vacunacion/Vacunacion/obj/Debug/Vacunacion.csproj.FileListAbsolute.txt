@@ -1,0 +1,7 @@
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\bin\Debug\Vacunacion.exe.config
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\bin\Debug\Vacunacion.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\bin\Debug\Vacunacion.pdb
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\obj\Debug\Vacunacion.csproj.AssemblyReference.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\obj\Debug\Vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\obj\Debug\Vacunacion.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Vacunacion\Vacunacion\obj\Debug\Vacunacion.pdb
