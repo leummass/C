@@ -1,0 +1,7 @@
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\bin\Debug\Escuela.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\bin\Debug\Escuela.pdb
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\obj\Debug\Escuela.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\Escuela\Escuela\obj\Debug\Escuela.pdb
