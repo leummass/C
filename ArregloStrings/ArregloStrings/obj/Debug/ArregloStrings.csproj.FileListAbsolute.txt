@@ -1,0 +1,7 @@
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\bin\Debug\ArregloStrings.exe.config
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\bin\Debug\ArregloStrings.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\bin\Debug\ArregloStrings.pdb
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\obj\Debug\ArregloStrings.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\obj\Debug\ArregloStrings.exe
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\obj\Debug\ArregloStrings.pdb
+C:\Users\Jesús\Desktop\u\5 semestre\TAP\programas C#\ArregloStrings\ArregloStrings\obj\Debug\ArregloStrings.csproj.AssemblyReference.cache
